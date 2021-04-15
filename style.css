@@ -1,0 +1,63 @@
+.logo{
+    width: 60%;
+}
+.nav-item{
+    padding: 0 10px;
+    font-weight: 50px;
+}
+.body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.carousel-bg{
+    background-image: url(./bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 110px 110px;
+}
+.see-all{
+    color: orange;
+    text-decoration: none;
+    font-size: 15px;
+    margin-bottom: 60px;
+    margin-top:20px ;
+}
+.see{
+    margin-top:20px ;
+    margin-bottom: 60px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 40px lightgray;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.card img{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+.card-body{
+    text-align: center;
+}
+#laptop{
+    margin-top: 20px;
+}
+.catagories{
+ margin-top: 100px;
+
+}
+.pale-order{
+    width: 95%;
+}
+.faka{
+    padding-left: 5%;
+}
+.my{
+    margin-top: 50px;
+}
